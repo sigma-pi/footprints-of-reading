@@ -8,8 +8,16 @@ Now I can conveniently get access to my books while switching between Linux and 
 
 # Useful Links
 
+## Tools
+
+[Connected Papers](https://www.connectedpapers.com/):
+This website helps to find related articles via citation connections.
+
+[Journal Citation Reports](https://jcr.clarivate.com/jcr/home):
+This website helps to check journal impact factors.
+
 ## Machine Learning
 
-[Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+[Understanding Deep Learning](https://udlbook.github.io/udlbook/): 
 This website is build on [this GitHub repository](https://github.com/udlbook/udlbook), and it also contains links to the author's many related blogs and articles.
 
